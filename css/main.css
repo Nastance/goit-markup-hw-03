@@ -320,7 +320,7 @@ body {
   width: 641px;
   padding-left: 15px;
   padding-right: 15px;
-  outline: 2px solid tomato;
+/*   outline: 2px solid tomato; */
 }
 
 .nav-galery .link.button {
@@ -354,7 +354,7 @@ body {
   width: 1200px;
   padding-left: 15px;
   padding-right: 15px;
-  outline: 2px solid tomato;
+/*   outline: 2px solid tomato; */
 }
 
 .galery {
